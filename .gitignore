@@ -4,3 +4,7 @@
 .settings
 build
 bin
+*.iml
+*.ipr
+*.iws
+.idea
