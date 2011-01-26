@@ -21,8 +21,8 @@ class GroovyBean {
     bean.propertyA = 'value assigned'
     println bean.propertyA
 
-    //bean.setFieldB('method does not exist')
-    //bean.fieldB = 'cannot assign'
+    //bean.setPropertyB('method does not exist')
+    //bean.propertyB = 'cannot assign'
 
     println bean.getPropertyB()
     println bean.propertyB
