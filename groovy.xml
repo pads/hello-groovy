@@ -1,0 +1,10 @@
+<accounts>
+<account type="current">
+  <name>Ben</name>
+  <balance>10</balance>
+</account>
+<account type="savings">
+  <name>Tony</name>
+  <balance>500</balance>
+</account>
+</accounts>
